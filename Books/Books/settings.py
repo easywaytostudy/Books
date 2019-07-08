@@ -81,6 +81,8 @@ WSGI_APPLICATION = 'Books.wsgi.application'
 #     }
 # }
 
+
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
